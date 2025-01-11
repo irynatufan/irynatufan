@@ -3,7 +3,7 @@
 
 - 🌱 I am continuously enhancing my proficiency in automation testing and programming languages like Python and Java Script 
 
-- :hammer_and_wrench: Languages and Tools I Work With :
+- :hammer_and_wrench: Languages and Tools I work with :
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>&nbsp;
